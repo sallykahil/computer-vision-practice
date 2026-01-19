@@ -26,3 +26,6 @@ Thumbs.db
 data
 myvenv
 venv311
+runs/
+__pycache__/
+*.pyc   
